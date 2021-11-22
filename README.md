@@ -5,4 +5,4 @@
 ### Description
 
 
-#### This repo is opened temporarily for graduate school application
+#### This repo is opened temporarily
